@@ -1,2 +1,2 @@
 # Codecademy-Python-Exercises
-Please find the solutions for the Python exercises.
+Please find the solutions for Codecademy Python exercises.
